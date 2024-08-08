@@ -1,5 +1,5 @@
-### Hi there 👋
-主要是提供一个记事本类型，主要是在课上做的，我在结合自己的实习经历，把它改成了复印机维修的记事本；主要是记录复印机出现问题，以及怎么解决，主要是能帮助工程师门记录，这个可能还有许多不足，大家在使用过程中若出现什么问题，可以告诉我哟
+### Hi there 
+r3的一个数据集
 <!--
 **Taoyinlzx/Taoyinlzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
